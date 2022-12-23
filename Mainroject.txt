@@ -1,0 +1,14 @@
+List of PC(s) in 'Super-Duper Computers' store:
+
+-------------------------------
+1. Computer:
+		Brand: ppp
+		Model: ppp
+		SN:    9999
+		Price: $6776
+-------------------------------
+2. Computer:
+		Brand: ppp
+		Model: ppp
+		SN:    7687876
+		Price: $67868
